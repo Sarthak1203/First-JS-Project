@@ -1,0 +1,9 @@
+div{
+    border: 2px solid black;
+    width: 600px;
+    height: 150px;
+    margin-left: 30rem;
+}
+body{
+    text-align: center;
+}
